@@ -4,7 +4,8 @@
   "description": "KNY BOT DISCORD BY NEEZUN",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "NeeZun",
   "license": "MIT",
@@ -12,4 +13,5 @@
     "discord.js": "^11.5.1",
     "fs": "^0.0.1-security"
   }
+  
 }
