@@ -278,4 +278,4 @@ fs.readdir('./Events/', (error, f) => {
 });
 
 
-client.login("OTQ0MzQwMjE0NTIyOTc0Mjg4.YhALXA.BLkFcrpGFWpjhJZm9nbemUt0_dk")
+client.login("process.env.TOKEN")
